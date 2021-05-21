@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="string_inv">INV</string>
+    <string name="string_rad">RAD</string>
+    <string name="string_tan">tan</string>
+    <string name="string_cos">cos</string>
+    <string name="string_sin">sin</string>
+    <string name="string_userInput">0+1+2</string>
+    <string name="string_userOutput">3</string>
+    <string name="string_percentage">%</string>
+    <string name="string_ln">ln</string>
+    <string name="string_log">log</string>
+    <string name="string_SqRoot">√</string>
+    <string name="string_power">^</string>
+    <string name="string_pi">π</string>
+    <string name="string_expo">e</string>
+    <string name="string_leftBrac">(</string>
+    <string name="string_rightBrac">)</string>
+    <string name="string_factorial">!</string>
+    <string name="string_one">1</string>
+    <string name="string_two">2</string>
+    <string name="string_nine">9</string>
+    <string name="string_eight">8</string>
+    <string name="string_seven">7</string>
+    <string name="string_divison">/</string>
+    <string name="string_clear">C</string>
+    <string name="string_four">4</string>
+    <string name="string_five">5</string>
+    <string name="string_six">6</string>
+    <string name="string_multiply">X</string>
+    <string name="string_plus">+</string>
+    <string name="string_three">3</string>
+    <string name="string_subtract">-</string>
+    <string name="string_equal">=</string>
+    <string name="string_zero">0</string>
+</resources>
